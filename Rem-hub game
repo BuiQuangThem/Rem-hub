@@ -2,4 +2,4 @@ Config = {
     namescript = "Rem hub",--Tên Script
     logoscript = " 84837548241989",--ID Logo Script
     tacgia = "Bùi Quang Thêm"-- Tên Tác Giả
-} loadstring(game:HttpGet"https://raw.githubusercontent.com/Basicallyy/Basicallyy/main/MinGamingV4.lua")()
+} loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/FreeScripts.lua"))();
