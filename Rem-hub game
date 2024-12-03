@@ -1,6 +1,5 @@
 Config = {
-    namescript = "Rem hub blox fruit no key",--Tên Script
+    namescript = "Rem hub",--Tên Script
     logoscript = " 84837548241989",--ID Logo Script
-    tacgia = "BùiQuangThêm"-- Tên Tác Giả
-}
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
+    tacgia = "Bùi Quang Thêm"-- Tên Tác Giả
+} loadstring(game:HttpGet"https://raw.githubusercontent.com/Basicallyy/Basicallyy/main/MinGamingV4.lua")()
